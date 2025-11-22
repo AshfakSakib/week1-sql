@@ -2,7 +2,6 @@
 
 This repository contains five SQL queries designed to extract key business insights from a retail database. Each SQL file is paired with a concise business answer below, demonstrating how the technical query translates into actionable information.
 
----
 
 ## 💻 SQL Files and Business Answers
 
