@@ -51,5 +51,5 @@ I verified the SQL results by building an automated Excel dashboard. This demons
 * **Dynamic Analysis:** Created Pivot Tables to replicate the SQL insights (Top 5 Products, Sales Trends).
 * **Visualization:** Built an interactive dashboard with Slicers for regional drill-down.
 
-**📂 File:** [Download the Excel Dashboard](./week2_sales_dashboard.xlsx)
+**📂 File:** [Download the Excel Dashboard](./excel/week2_sales_dashboard.xlsx)
 *(Note: You must download the file to interact with the Slicers)*
