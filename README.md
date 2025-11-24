@@ -37,3 +37,19 @@ This repository contains five SQL queries designed to extract key business insig
 * **Filtering:** Used `WHERE` and `HAVING` clauses to isolate specific trends.
 * **Joins:** Combined `Orders`, `Products`, and `Customers` tables to view holistic data.
 * **Ranking:** Used `ORDER BY` and `LIMIT` to identify top performers.
+
+---
+
+## 📈 Week 2: Excel Dashboard & Data Pipeline
+
+I verified the SQL results by building an automated Excel dashboard. This demonstrates how I can move from raw database extraction to stakeholder-ready visualization.
+
+### 📺 [Watch the 2-Minute Walkthrough Video]. ( https://youtu.be/_dF72_hO9pc )
+
+**What I built:**
+* **ETL Pipeline:** Used **Power Query** to join `Orders`, `Products`, and `Customers` tables and calculate Gross Margin automatically.
+* **Dynamic Analysis:** Created Pivot Tables to replicate the SQL insights (Top 5 Products, Sales Trends).
+* **Visualization:** Built an interactive dashboard with Slicers for regional drill-down.
+
+**📂 File:** [Download the Excel Dashboard](./week2_sales_dashboard.xlsx)
+*(Note: You must download the file to interact with the Slicers)*
