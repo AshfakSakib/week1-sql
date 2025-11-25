@@ -53,3 +53,15 @@ I verified the SQL results by building an automated Excel dashboard. This demons
 
 **📂 File:** [Download the Excel Dashboard](./excel/week2_sales_dashboard.xlsx)
 *(Note: You must download the file to interact with the Slicers)*
+---
+
+## 🐍 Week 3: Python Analysis (Pandas)
+
+I took the analysis a step further by using **Python** to perform Exploratory Data Analysis (EDA) in a Jupyter Notebook environment.
+
+* **Data Loading:** Created dataframes from raw dictionaries (simulating CSV loads).
+* **Data Cleaning:** Checked for null values and verified data types.
+* **Merging:** Performed `pd.merge()` (Left Joins) to combine 3 datasets.
+* **Visualization:** Used `Seaborn` to plot the Top 5 Products.
+
+**📂 File:** [View the Jupyter Notebook](./python/eda.ipynb)
