@@ -65,3 +65,20 @@ I took the analysis a step further by using **Python** to perform Exploratory Da
 * **Visualization:** Used `Seaborn` to plot the Top 5 Products.
 
 **📂 File:** [View the Jupyter Notebook](./python/eda.ipynb)
+
+---
+
+## 📊 Week 4: Power BI Dashboard
+
+I visualized the data using Microsoft Power BI to create an interactive experience for stakeholders.
+
+* **Data Modeling:** Built a Star Schema connecting transaction data to dimension tables.
+* **DAX:** Wrote explicit measures for `Total Revenue` and `Profit Margin`.
+* **UX:** Implemented slicers for dynamic time and region filtering.
+
+### 📺 [Watch the Dashboard Demo](PASTE_YOUR_LOOM_LINK_HERE)
+
+**Snapshot:**
+![Dashboard Preview](./powerbi/dashboard_screenshot.png)
+
+**📂 File:** [Download the .pbix file](./powerbi/retail_sales_dashboard.pbix)
