@@ -76,7 +76,7 @@ I visualized the data using Microsoft Power BI to create an interactive experien
 * **DAX:** Wrote explicit measures for `Total Revenue` and `Profit Margin`.
 * **UX:** Implemented slicers for dynamic time and region filtering.
 
-### 📺 [Watch the Dashboard Demo](PASTE_YOUR_LOOM_LINK_HERE)
+### 📺 [Watch the Dashboard Demo](https://youtu.be/_W82rVbtS1I)
 
 **Snapshot:**
 ![Dashboard Preview](./powerbi/dashboard_screenshot.png)
